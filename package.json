@@ -1,0 +1,31 @@
+{
+  "name": "cagel",
+  "version": "1.3.0",
+  "description": "A simple terminal",
+  "main": "src/index.js",
+  "dependencies": {
+    "node-cmd": "^4.0.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "bin":"src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "run":"node src/index.js",
+    "compile":"npx pkg ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fatpancake613/Cagel.git"
+  },
+  "keywords": [
+    "shell",
+    "terminal",
+    "cagel"
+  ],
+  "author": "The Modern Joke#8146",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fatpancake613/Cagel/issues"
+  },
+  "homepage": "https://github.com/Fatpancake613/Cagel#readme"
+}
