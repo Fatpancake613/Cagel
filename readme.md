@@ -68,3 +68,5 @@ Wow, this hasn't been updated in forever. I should fix that. I added pwd and tha
 
 ### 1/30/22:
 Cleaned up this absolute shitshow
+### 1/31/22:
+Still messy code, formatted

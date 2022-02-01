@@ -1,7 +1,7 @@
 {  
-  "vers":"Cagel UP15",
+  "vers":"Cagel 1.5.1",
   "made":"4-13-21",
-  "lastchange":"11-13-21",
+  "lastchange":"1-31-22",
   "update": "Added pwd",
 	"bugcount":1,
 	"bugdescription":"lookfor: Too many files to look through"

@@ -9,7 +9,7 @@ const path = require("path");
 const os = require("os");
 const prompt = require('prompt-sync')();
 const process = require("process");
-var obj = JSON.parse(fs.readFileSync("./info.json", "utf8"))
+var obj = JSON.parse(fs.readFileSync("../info.json", "utf8"))
 //const run = require("./run.js");   since been removed
 const { stringify } = require("querystring");
 
